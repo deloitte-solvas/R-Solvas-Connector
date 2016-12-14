@@ -1,0 +1,8 @@
+DataAccess              DataAccess: da_obj to connect and interact with
+                        the Capital database
+DataAccess.ConnectionStatus
+                        Returns the connection status
+DataAccess.FiInstrumentGet
+                        Get financial instruments
+DataAccess.FsAssumptionsGet
+                        Get economic assumptions

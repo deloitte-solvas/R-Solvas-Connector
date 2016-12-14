@@ -1,0 +1,7 @@
+DataAccess	DataAccess
+DataAccess.ConnectionStatus	DataAccess.ConnectionStatus
+DataAccess.FiInstrumentGet	DataAccess.FIInstrumentGet
+DataAccess.FsAssumptionsGet	DataAccess.FSAssumptionsGet
+SPFIInstrumentGet	SPFIInstrumentGet
+SPFSAssumptionsGet	SPFSAssumptionsGet
+SPInstrumentPropertyLoad	SPInstrumentPropertyLoad
